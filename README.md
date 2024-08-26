@@ -58,4 +58,4 @@ This project aims to identify dog breeds using the YOLO (You Only Look Once) obj
 
 The model outputs the detected dog breeds along with confidence scores, both visually in the form of bounding boxes around the dogs and as text.
 
-![Dog Breed Detection](images/train-batch1.jpg)
+![Dog Breed Detection](images/train_batch1.jpg)
